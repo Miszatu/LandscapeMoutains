@@ -11,6 +11,6 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Assets/*
-Content/Assets/Maps/*
+Content/Maps/*
 Content/StarterContent/*
 .vs/
