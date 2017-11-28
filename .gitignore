@@ -10,7 +10,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-Content/Assets/*
+Content/Assets/Textures/*
+Content/Assets/Audio/*
 Content/Maps/*
 Content/StarterContent/*
 .vs/
