@@ -10,5 +10,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Assets/*
 Content/StarterContent/*
 .vs/
